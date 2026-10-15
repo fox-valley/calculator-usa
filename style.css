@@ -90,7 +90,7 @@ input:focus, select:focus {
     color: #334155;
 }
 .total {
-    font-size: 1.1em;
+    font-size: 0.8em;
     margin-top: 16px;
     border-top: 2px dashed #bbf7d0;
     padding-top: 16px;
