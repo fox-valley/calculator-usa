@@ -103,3 +103,9 @@ input:focus, select:focus {
     color: #16a34a;
     font-weight: 800;
 }
+@media (max-width: 480px) {
+    input, select {
+        font-size: 14px;
+        padding: 0 10px;
+    }
+}
