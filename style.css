@@ -86,7 +86,7 @@ input:focus, select:focus {
     color: #64748b;
 }
 .result-line span:last-child {
-    font-weight: 600;
+    font-weight: 400;
     color: #334155;
 }
 .total {
